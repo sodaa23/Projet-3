@@ -1,0 +1,61 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto:ital,wght@0,300;1,100;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Oswald:wght@300&family=Roboto:ital,wght@0,300;1,100;1,300&display=swap');
+
+
+.marron{
+    background-color:#7F3B1E;
+    width: 70%;
+    height:80vh;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:  7px; 
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.left{
+    background-image:url("Paysage\ 1.jpg");
+    width: 50%;
+    height:60vh;
+    background-size:cover; 
+
+}
+.right{
+    /*background-image:url("image/rose.jpg"); */
+    background-color: rgb(202, 136, 139);
+    width:28%;
+    height:60vh;
+    background-size:cover;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+   }
+   p{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+   }
+   #h4{
+    font-family: 'Dancing Script', cursive;
+    /*font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;*/
+    font-size: 40px;
+    color: white;
+    text-align: center;
+
+}
+.ecriture{
+    height: 20%;
+    box-sizing: border-box;
+}
+
+
+   
